@@ -1,0 +1,150 @@
+C:\Users\mareike\Documents\Studium\8.Semester-SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\host.json
+C:\Users\mareike\Documents\Studium\8.Semester-SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\local.settings.json
+C:\Users\mareike\Documents\Studium\8.Semester-SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\SharePointConnector.deps.json
+C:\Users\mareike\Documents\Studium\8.Semester-SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\SharePointConnector.dll
+C:\Users\mareike\Documents\Studium\8.Semester-SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\SharePointConnector.pdb
+C:\Users\mareike\Documents\Studium\8.Semester-SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\System.Net.Http.Formatting.dll
+C:\Users\mareike\Documents\Studium\8.Semester-SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\mareike\Documents\Studium\8.Semester-SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\mareike\Documents\Studium\8.Semester-SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\mareike\Documents\Studium\8.Semester-SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\mareike\Documents\Studium\8.Semester-SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\mareike\Documents\Studium\8.Semester-SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\mareike\Documents\Studium\8.Semester-SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\mareike\Documents\Studium\8.Semester-SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\mareike\Documents\Studium\8.Semester-SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\mareike\Documents\Studium\8.Semester-SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\mareike\Documents\Studium\8.Semester-SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\mareike\Documents\Studium\8.Semester-SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\mareike\Documents\Studium\8.Semester-SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\mareike\Documents\Studium\8.Semester-SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\mareike\Documents\Studium\8.Semester-SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.AspNetCore.Mvc.WebApiCompatShim.dll
+C:\Users\mareike\Documents\Studium\8.Semester-SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\mareike\Documents\Studium\8.Semester-SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\mareike\Documents\Studium\8.Semester-SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\mareike\Documents\Studium\8.Semester-SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\mareike\Documents\Studium\8.Semester-SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.Azure.WebJobs.Host.dll
+C:\Users\mareike\Documents\Studium\8.Semester-SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.Azure.WebJobs.dll
+C:\Users\mareike\Documents\Studium\8.Semester-SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.Azure.WebJobs.Extensions.dll
+C:\Users\mareike\Documents\Studium\8.Semester-SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.Azure.WebJobs.Extensions.Http.dll
+C:\Users\mareike\Documents\Studium\8.Semester-SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.Azure.WebJobs.Host.Storage.dll
+C:\Users\mareike\Documents\Studium\8.Semester-SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.Build.Framework.dll
+C:\Users\mareike\Documents\Studium\8.Semester-SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.Build.Utilities.Core.dll
+C:\Users\mareike\Documents\Studium\8.Semester-SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\mareike\Documents\Studium\8.Semester-SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\mareike\Documents\Studium\8.Semester-SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\mareike\Documents\Studium\8.Semester-SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\mareike\Documents\Studium\8.Semester-SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\mareike\Documents\Studium\8.Semester-SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\mareike\Documents\Studium\8.Semester-SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\mareike\Documents\Studium\8.Semester-SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mareike\Documents\Studium\8.Semester-SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mareike\Documents\Studium\8.Semester-SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Users\mareike\Documents\Studium\8.Semester-SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\mareike\Documents\Studium\8.Semester-SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\mareike\Documents\Studium\8.Semester-SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\mareike\Documents\Studium\8.Semester-SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.Extensions.Hosting.dll
+C:\Users\mareike\Documents\Studium\8.Semester-SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\mareike\Documents\Studium\8.Semester-SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.Extensions.Logging.dll
+C:\Users\mareike\Documents\Studium\8.Semester-SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mareike\Documents\Studium\8.Semester-SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\mareike\Documents\Studium\8.Semester-SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\mareike\Documents\Studium\8.Semester-SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.Extensions.Options.dll
+C:\Users\mareike\Documents\Studium\8.Semester-SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\mareike\Documents\Studium\8.Semester-SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\mareike\Documents\Studium\8.Semester-SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\mareike\Documents\Studium\8.Semester-SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.Graph.dll
+C:\Users\mareike\Documents\Studium\8.Semester-SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.Graph.Core.dll
+C:\Users\mareike\Documents\Studium\8.Semester-SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.Identity.Client.dll
+C:\Users\mareike\Documents\Studium\8.Semester-SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\mareike\Documents\Studium\8.Semester-SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Nancy.dll
+C:\Users\mareike\Documents\Studium\8.Semester-SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\NCrontab.Signed.dll
+C:\Users\mareike\Documents\Studium\8.Semester-SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Newtonsoft.Json.dll
+C:\Users\mareike\Documents\Studium\8.Semester-SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Newtonsoft.Json.Bson.dll
+C:\Users\mareike\Documents\Studium\8.Semester-SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\mareike\Documents\Studium\8.Semester-SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\System.Text.Encodings.Web.dll
+C:\Users\mareike\Documents\Studium\8.Semester-SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\mareike\Documents\Studium\8.Semester-SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\runtimes\unix\lib\netstandard1.3\System.Text.Encoding.CodePages.dll
+C:\Users\mareike\Documents\Studium\8.Semester-SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\runtimes\win\lib\netstandard1.3\System.Text.Encoding.CodePages.dll
+C:\Users\mareike\Documents\Studium\8.Semester-SS19\Bachelor\SharePointConnector\SharePointConnector\obj\MCD\Debug\netcoreapp2.1\SharePointConnector.csprojAssemblyReference.cache
+C:\Users\mareike\Documents\Studium\8.Semester-SS19\Bachelor\SharePointConnector\SharePointConnector\obj\MCD\Debug\netcoreapp2.1\SharePointConnector.csproj.CoreCompileInputs.cache
+C:\Users\mareike\Documents\Studium\8.Semester-SS19\Bachelor\SharePointConnector\SharePointConnector\obj\MCD\Debug\netcoreapp2.1\SharePointConnector.AssemblyInfoInputs.cache
+C:\Users\mareike\Documents\Studium\8.Semester-SS19\Bachelor\SharePointConnector\SharePointConnector\obj\MCD\Debug\netcoreapp2.1\SharePointConnector.AssemblyInfo.cs
+C:\Users\mareike\Documents\Studium\8.Semester-SS19\Bachelor\SharePointConnector\SharePointConnector\obj\MCD\Debug\netcoreapp2.1\SharePointConnector.csproj.CopyComplete
+C:\Users\mareike\Documents\Studium\8.Semester-SS19\Bachelor\SharePointConnector\SharePointConnector\obj\MCD\Debug\netcoreapp2.1\SharePointConnector.dll
+C:\Users\mareike\Documents\Studium\8.Semester-SS19\Bachelor\SharePointConnector\SharePointConnector\obj\MCD\Debug\netcoreapp2.1\SharePointConnector.pdb
+C:\Users\mareike\Documents\Studium\8. Semester - SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\host.json
+C:\Users\mareike\Documents\Studium\8. Semester - SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\local.settings.json
+C:\Users\mareike\Documents\Studium\8. Semester - SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\SharePointConnector.deps.json
+C:\Users\mareike\Documents\Studium\8. Semester - SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\SharePointConnector.dll
+C:\Users\mareike\Documents\Studium\8. Semester - SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\SharePointConnector.pdb
+C:\Users\mareike\Documents\Studium\8. Semester - SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\System.Net.Http.Formatting.dll
+C:\Users\mareike\Documents\Studium\8. Semester - SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\mareike\Documents\Studium\8. Semester - SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\mareike\Documents\Studium\8. Semester - SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\mareike\Documents\Studium\8. Semester - SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\mareike\Documents\Studium\8. Semester - SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\mareike\Documents\Studium\8. Semester - SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\mareike\Documents\Studium\8. Semester - SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\mareike\Documents\Studium\8. Semester - SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\mareike\Documents\Studium\8. Semester - SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\mareike\Documents\Studium\8. Semester - SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\mareike\Documents\Studium\8. Semester - SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\mareike\Documents\Studium\8. Semester - SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\mareike\Documents\Studium\8. Semester - SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\mareike\Documents\Studium\8. Semester - SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\mareike\Documents\Studium\8. Semester - SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.AspNetCore.Mvc.WebApiCompatShim.dll
+C:\Users\mareike\Documents\Studium\8. Semester - SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\mareike\Documents\Studium\8. Semester - SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\mareike\Documents\Studium\8. Semester - SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\mareike\Documents\Studium\8. Semester - SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\mareike\Documents\Studium\8. Semester - SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.Azure.WebJobs.Host.dll
+C:\Users\mareike\Documents\Studium\8. Semester - SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.Azure.WebJobs.dll
+C:\Users\mareike\Documents\Studium\8. Semester - SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.Azure.WebJobs.Extensions.dll
+C:\Users\mareike\Documents\Studium\8. Semester - SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.Azure.WebJobs.Extensions.Http.dll
+C:\Users\mareike\Documents\Studium\8. Semester - SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.Azure.WebJobs.Host.Storage.dll
+C:\Users\mareike\Documents\Studium\8. Semester - SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.Build.Framework.dll
+C:\Users\mareike\Documents\Studium\8. Semester - SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.Build.Utilities.Core.dll
+C:\Users\mareike\Documents\Studium\8. Semester - SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\mareike\Documents\Studium\8. Semester - SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\mareike\Documents\Studium\8. Semester - SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\mareike\Documents\Studium\8. Semester - SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\mareike\Documents\Studium\8. Semester - SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\mareike\Documents\Studium\8. Semester - SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\mareike\Documents\Studium\8. Semester - SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\mareike\Documents\Studium\8. Semester - SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mareike\Documents\Studium\8. Semester - SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mareike\Documents\Studium\8. Semester - SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Users\mareike\Documents\Studium\8. Semester - SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\mareike\Documents\Studium\8. Semester - SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\mareike\Documents\Studium\8. Semester - SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\mareike\Documents\Studium\8. Semester - SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.Extensions.Hosting.dll
+C:\Users\mareike\Documents\Studium\8. Semester - SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\mareike\Documents\Studium\8. Semester - SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.Extensions.Logging.dll
+C:\Users\mareike\Documents\Studium\8. Semester - SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mareike\Documents\Studium\8. Semester - SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\mareike\Documents\Studium\8. Semester - SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\mareike\Documents\Studium\8. Semester - SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.Extensions.Options.dll
+C:\Users\mareike\Documents\Studium\8. Semester - SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\mareike\Documents\Studium\8. Semester - SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\mareike\Documents\Studium\8. Semester - SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\mareike\Documents\Studium\8. Semester - SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.Graph.dll
+C:\Users\mareike\Documents\Studium\8. Semester - SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.Graph.Core.dll
+C:\Users\mareike\Documents\Studium\8. Semester - SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.Identity.Client.dll
+C:\Users\mareike\Documents\Studium\8. Semester - SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\mareike\Documents\Studium\8. Semester - SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Nancy.dll
+C:\Users\mareike\Documents\Studium\8. Semester - SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\NCrontab.Signed.dll
+C:\Users\mareike\Documents\Studium\8. Semester - SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Newtonsoft.Json.dll
+C:\Users\mareike\Documents\Studium\8. Semester - SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Newtonsoft.Json.Bson.dll
+C:\Users\mareike\Documents\Studium\8. Semester - SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\mareike\Documents\Studium\8. Semester - SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\System.Text.Encodings.Web.dll
+C:\Users\mareike\Documents\Studium\8. Semester - SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\mareike\Documents\Studium\8. Semester - SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\runtimes\unix\lib\netstandard1.3\System.Text.Encoding.CodePages.dll
+C:\Users\mareike\Documents\Studium\8. Semester - SS19\Bachelor\SharePointConnector\SharePointConnector\bin\output\bin\runtimes\win\lib\netstandard1.3\System.Text.Encoding.CodePages.dll
+C:\Users\mareike\Documents\Studium\8. Semester - SS19\Bachelor\SharePointConnector\SharePointConnector\obj\MCD\Debug\netcoreapp2.1\SharePointConnector.csprojAssemblyReference.cache
+C:\Users\mareike\Documents\Studium\8. Semester - SS19\Bachelor\SharePointConnector\SharePointConnector\obj\MCD\Debug\netcoreapp2.1\SharePointConnector.csproj.CoreCompileInputs.cache
+C:\Users\mareike\Documents\Studium\8. Semester - SS19\Bachelor\SharePointConnector\SharePointConnector\obj\MCD\Debug\netcoreapp2.1\SharePointConnector.AssemblyInfoInputs.cache
+C:\Users\mareike\Documents\Studium\8. Semester - SS19\Bachelor\SharePointConnector\SharePointConnector\obj\MCD\Debug\netcoreapp2.1\SharePointConnector.AssemblyInfo.cs
+C:\Users\mareike\Documents\Studium\8. Semester - SS19\Bachelor\SharePointConnector\SharePointConnector\obj\MCD\Debug\netcoreapp2.1\SharePointConnector.csproj.CopyComplete
+C:\Users\mareike\Documents\Studium\8. Semester - SS19\Bachelor\SharePointConnector\SharePointConnector\obj\MCD\Debug\netcoreapp2.1\SharePointConnector.dll
+C:\Users\mareike\Documents\Studium\8. Semester - SS19\Bachelor\SharePointConnector\SharePointConnector\obj\MCD\Debug\netcoreapp2.1\SharePointConnector.pdb

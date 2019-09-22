@@ -1,0 +1,76 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\mareike\\Documents\\Studium\\8. Semester - SS19\\Bachelor\\SharePointConnector\\SharePointConnector\\SharePointConnector.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\mareike\\Documents\\Studium\\8. Semester - SS19\\Bachelor\\SharePointConnector\\SharePointConnector\\SharePointConnector.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mareike\\Documents\\Studium\\8. Semester - SS19\\Bachelor\\SharePointConnector\\SharePointConnector\\SharePointConnector.csproj",
+        "projectName": "SharePointConnector",
+        "projectPath": "C:\\Users\\mareike\\Documents\\Studium\\8. Semester - SS19\\Bachelor\\SharePointConnector\\SharePointConnector\\SharePointConnector.csproj",
+        "packagesPath": "C:\\Users\\mareike\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mareike\\Documents\\Studium\\8. Semester - SS19\\Bachelor\\SharePointConnector\\SharePointConnector\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mareike\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.Graph": {
+              "target": "Package",
+              "version": "[1.15.0, )"
+            },
+            "Microsoft.Identity.Client": {
+              "target": "Package",
+              "version": "[2.7.0, )"
+            },
+            "Microsoft.NET.Sdk.Functions": {
+              "target": "Package",
+              "version": "[1.0.27, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Nancy": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
